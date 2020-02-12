@@ -1,0 +1,5 @@
+Last class we selected a paper by Deepanway Ghosal at el. named "DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation". After that we tried to understand their working method for that all of our group members read the paper several times and discussed with each others what the individual understood.
+
+
+
+
