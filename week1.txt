@@ -1,0 +1,2 @@
+we formed our group and selected a paper named "DialogueGCN: A Graph Convolutional Neural Network for
+Emotion Recognition in Conversation" I did some study on the paper.
