@@ -1,0 +1,9 @@
+1.Read the paper "WAVENET: A GENERATIVE MODEL FOR RAW AUDIO"
+
+2. https://www.youtube.com/watch?v=CqFIVCD1WWo
+
+3.https://www.youtube.com/watch?v=YyUXG-BfDbE&t=117s
+
+4. https://www.deepmind.com/blog/article/wavenet-generative-model-raw-audio
+
+5.https://www.youtube.com/watch?v=FeJT8ejgsL0
